@@ -1,4 +1,4 @@
-# Cryptographic-Accelerator
+# Cryptographic Accelerator
 This project is done in verilog and meant to be uploaded to an FPGA to help expedite SHA-256 encryption when a process is being managed by another system.
 
 ## Demo
